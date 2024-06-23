@@ -1,17 +1,17 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+HI,+I'am+kuma+Leta)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+HI,+I'm+kuma+Leta)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/Kuma-Leta/Kuma-Leta/main/banner.png">
 <h3 align="center">A passionate fullstack developer </h3>
 <img align="right" alt="coding width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd1bXBrOWRobGQ3bWlsc3ZnYm10OTJqeXlqZWt3YW9sZnZxYXdkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
-- 🌱 I’m currently learning Software Engineering
-
-- 📫  reach me at kumaleta2021@gmail.com
+<p align="left"> - 🌱 I’m currently learning Software Engineering<p>
+ - 📫 reach me at kumaleta2021@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kumaleta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumaleta" height="30" width="40" /></a>
 <a href="https://fb.com/kuma leta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kuma leta" height="30" width="40" /></a>
 <a href="https://instagram.com/kuma.leta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kuma.leta" height="30" width="40" /></a>
+  <h3>Languages and Tools :</h3>
 <p dir="auto">
 
   
@@ -38,6 +38,8 @@
 
 
 </p>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuma-Leta&show_icons=true&locale=en&layout=compact" alt="kuma-leta" /></p>
 
