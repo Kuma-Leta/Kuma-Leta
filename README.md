@@ -6,7 +6,7 @@
 <p align="left"> - 🌱 I’m currently learning Software Engineering<p>
  - 📫 reach me at kumaleta2021@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kumaleta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumaleta" height="30" width="40" /></a>
 <a href="https://fb.com/kuma leta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kuma leta" height="30" width="40" /></a>
