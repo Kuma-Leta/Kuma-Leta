@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Kuma-Leta/Kuma-Leta/main/banner.png">
 <h3 align="center">A passionate fullstack developer </h3>
 <img align="right" alt="coding width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd1bXBrOWRobGQ3bWlsc3ZnYm10OTJqeXlqZWt3YW9sZnZxYXdkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
-<p align="left"> - 🌱 I’m currently learning Software Engineering<p>
+<p align="left"> - 🌱 I’m currently working as full-stack developer<p>
  - 📫 reach me at kumaleta2021@gmail.com
 
 <h3 align="left">Connect with Me:</h3>
